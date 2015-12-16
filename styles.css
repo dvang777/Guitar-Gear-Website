@@ -1,10 +1,11 @@
 p {
 	font-family: sans-serif;
-	color: #0000FF;
+	color: #6E6E6E;
 }
 
 #awesomeText {
 	font-family: 'Times New Roman', Georgia, Serif;
+	color: #2E2E2E
 }
 
 .soft {
@@ -16,7 +17,12 @@ p {
 
 body {
 	background-color: #A4A4A4;
-	background-image:url("guitar.jpg");
+	background-image:url("white.jpg");
 	background-repeat: no-repeat;
-	background-position: top;
+	background-position: center;
+	background-size: 1770px 1760px;
+}
+h3 {
+	font-family: 'Times New Roman'
+	color: #EFFBFB;
 }
