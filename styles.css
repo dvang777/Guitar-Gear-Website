@@ -26,3 +26,10 @@ h3 {
 	font-family: 'Times New Roman'
 	color: #EFFBFB;
 }
+li a {
+	color:#000;
+}
+ul{
+	display: inline-block;
+	
+}
